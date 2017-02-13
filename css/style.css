@@ -165,6 +165,9 @@ li a.active{
 }
 
 /*about area*/
+.about{
+	padding-top: 70px;
+}
 .about h2{
 	font-size: 90px;
 	color: #db1e26;
@@ -261,6 +264,7 @@ li a.active{
 	background: url(../img/pattern.jpg);
 	background-repeat: repeat;
 	margin-top: 40px;
+	padding-top: 70px;
 }
 .service h2{
 	font-size: 90px;
@@ -306,6 +310,7 @@ li a.active{
 /*team section*/
 .team{
 	padding-bottom: 60px;
+	padding-top: 80px;
 }
 .team h2{
 	font-size: 90px;
@@ -581,6 +586,47 @@ li a.active{
 	float: left;
 	width: 60px;
 	height: 392px;
+}
+
+.orizontalonlineorc{
+	position: fixed;
+	float: left;
+	width: 50%;
+	height: 40px;
+	bottom: 0px;
+	background: #DB1E26;
+	padding: 5px;
+	padding-right: 15px;
+	text-align: right;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+}
+.orizontalonlineorc:hover, .orizontalonlineorc.active{
+	color: #fff;
+	text-decoration: none;
+}
+
+.orizontalonlineprod{
+	position: fixed;
+	float: left;
+	width: 50%;
+	height: 40px;
+	bottom: 0px;
+	background: #333333;
+	padding: 5px;
+	padding-left: 15px;
+	text-align: left;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	right: 0px;
+}
+.orizontalonlineprod:hover, .orizontalonlineprod.active{
+	color: #fff;
+	text-decoration: none;
 }
 
 
@@ -863,5 +909,8 @@ responsive area
   	}
   	.verticalonlineorc{
 		display: none;
+	}
+	.footer-para{
+		padding-left: 20px;
 	}
 }
