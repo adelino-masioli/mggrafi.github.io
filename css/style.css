@@ -15,6 +15,18 @@ h1, h2{
 	font-weight: bold;
 }
 
+.phonenumber{
+	float: left;
+	width: 100%;
+	margin-top: 90px;
+	color: #666666;
+	position: relative;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	margin-bottom: 20px;
+	text-align: center;
+}
 
 /*header area*/
 .top-header{
@@ -805,11 +817,12 @@ responsive area
 /* XS Portrait */
 @media (max-width: 479px) {
 	.header-logo{
-	  width: 70%!important;
+	  width: 80%!important;
 
 	}
 	.top-header img.logo {
 	  margin: 20px 10px;
+	  width: 100%;
 	}
 	
 	.navbar-default .navbar-toggle {
@@ -824,6 +837,7 @@ responsive area
 	.header-backup{
 		  height: 80px;
 	}
+	.slider{position:relative; top: 20px;}
 	.carousel-caption {
 	    margin-top: -60px;
 	}
