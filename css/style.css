@@ -504,6 +504,8 @@ li a.active{
 .contact-form{
 	padding-right: 40px;
 }
+.form-only h3, .form-only li{color: #666666!important;}
+.form-only input, .form-only textarea{border:1px solid #cccccc!important;}
 
 /*gmap*/
 #map{
