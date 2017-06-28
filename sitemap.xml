@@ -7,15 +7,17 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://mggraf.com/</loc>
-  <lastmod>2017-02-06T16:56:45+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://mggraf.com/index.html</loc>
-  <lastmod>2017-02-06T16:56:45+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <loc>http://www.mggraf.com.br/</loc>
+  <lastmod>2017-06-28T01:54:28+00:00</lastmod>
+
+  <loc>http://www.mggraf.com.br/sobre/</loc>
+  <lastmod>2017-06-28T01:54:28+00:00</lastmod>
+
+  <loc>http://www.mggraf.com.br/produtos/</loc>
+  <lastmod>2017-06-28T01:54:28+00:00</lastmod>
+
+  <loc>http://www.mggraf.com.br/contato/</loc>
+  <lastmod>2017-06-28T01:54:28+00:00</lastmod>
+
 </url>
 </urlset>
